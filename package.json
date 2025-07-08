@@ -1039,5 +1039,15 @@
     "author": "cddjr",
     "level": 1,
     "v2": true
+  },
+  "FileMove": {
+    "name": "文件移动",
+    "description": "自定义文件类型从源目录移动到目的目录。",
+    "labels": "工具",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/thsrite/MoviePilot-Plugins/main/icons/copy_files.png",
+    "author": "nyankosensei",
+    "level": 1,
+    "v2": true
   }
 }
