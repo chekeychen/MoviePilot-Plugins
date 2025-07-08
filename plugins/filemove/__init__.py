@@ -17,7 +17,7 @@ from app.utils.system import SystemUtils
 lock = threading.Lock()
 
 
-class FileCopy(_PluginBase):
+class FileMove(_PluginBase):
     # 插件名称
     plugin_name = "文件移动"
     # 插件描述
